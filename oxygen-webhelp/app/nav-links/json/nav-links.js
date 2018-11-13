@@ -1,0 +1,1 @@
+define({"title":"<span class=\"title\">Prodigal</span>","topics" : [{"title":"Dealing with an addict","href":"javascript:void(0)","menu": {"hasChildren":false,},"tocID":"tocId-d66e11","topics":[]},{"title":"Prodigals","href":"prodigals.html","attributes": {"data-id":"prodigals",},"menu": {"hasChildren":true,},"tocID":"prodigals-d66e13","next":"prodigals-d66e13",}]});

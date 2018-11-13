@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="prodigals" path="prodigals.html"/>
+   <appContext helpID="prayer_" path="prodigal_prayer.html"/>
+   <appContext helpID="prayer_reference" path="prodigal_prayer_reference.html"/>
+   <appContext helpID="why_addictions_concept" path="prodigal_addictions_concept.html"/>
+   <appContext helpID="enabling_reference" path="prodigal_enabling_reference.html"/>
+   <appContext helpID="intervention_task" path="prodigal_intervention_task.html"/>
+   <appContext helpID="resource_reference" path="prodigal_resource_reference.html"/>
+</map>
