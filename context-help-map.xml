@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+   <appContext helpID="prodigal_communicate_task" path="prodigal_communicate_task.html"/>
    <appContext helpID="prodigals" path="prodigals.html"/>
    <appContext helpID="prayer_" path="prodigal_prayer.html"/>
    <appContext helpID="prayer_reference" path="prodigal_prayer_reference.html"/>

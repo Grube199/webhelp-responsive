@@ -2,22 +2,34 @@
    <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">Prodigal</span></title>
    <topic href="javascript:void(0)" wh-toc-id="tocId-d66e11">
       <title>Dealing with an addict</title>
+      <topic href="prodigal_communicate_task.html" data-id="prodigal_communicate_task" wh-toc-id="prodigal_communicate_task-d66e12">
+         <title>How to communicate</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Communicating with an addict involves more than speaking.</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="prodigal_communicate_task"></resourceid>
+            <navtitle class="- topic/navtitle ">How to communicate</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">How to communicate</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">Communicating with an addict involves more than speaking.</shortdesc>
+         </topicmeta>
+      </topic>
    </topic>
-   <topic href="prodigals.html" data-id="prodigals" wh-toc-id="prodigals-d66e13">
+   <topic href="prodigals.html" data-id="prodigals" wh-toc-id="prodigals-d66e24">
       <title>Prodigals</title>
       <topicmeta>
          <resourceid class="- topic/resourceid " oxy-source="topic" appid="prodigals"></resourceid>
          <navtitle class="- topic/navtitle ">Prodigals</navtitle><?ditaot gentext?>
          <linktext class="- map/linktext ">Prodigals</linktext>
       </topicmeta>
-      <topic href="prodigal_prayer.html" data-id="prayer_" wh-toc-id="prayer_-d66e21">
+      <topic href="prodigal_prayer.html" data-id="prayer_" wh-toc-id="prayer_-d66e32">
          <title>Prayer</title>
          <topicmeta>
             <resourceid class="- topic/resourceid " oxy-source="topic" appid="prayer_"></resourceid>
             <navtitle class="- topic/navtitle ">Prayer</navtitle><?ditaot gentext?>
             <linktext class="- map/linktext ">Prayer</linktext>
          </topicmeta>
-         <topic href="prodigal_prayer_reference.html" data-id="prayer_reference" wh-toc-id="prayer_reference-d66e29">
+         <topic href="prodigal_prayer_reference.html" data-id="prayer_reference" wh-toc-id="prayer_reference-d66e40">
             <title>Prayer ideas</title>
             <shortdesc>
                <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Prayer starters for prodigals.</p>
@@ -30,7 +42,7 @@
             </topicmeta>
          </topic>
       </topic>
-      <topic href="prodigal_addictions_concept.html" data-id="why_addictions_concept" wh-toc-id="why_addictions_concept-d66e40">
+      <topic href="prodigal_addictions_concept.html" data-id="why_addictions_concept" wh-toc-id="why_addictions_concept-d66e51">
          <title>Why addictions?</title>
          <topicmeta>
             <resourceid class="- topic/resourceid " oxy-source="topic" appid="why_addictions_concept"></resourceid>
@@ -38,7 +50,7 @@
             <linktext class="- map/linktext ">Why addictions?</linktext>
          </topicmeta>
       </topic>
-      <topic href="prodigal_enabling_reference.html" data-id="enabling_reference" wh-toc-id="enabling_reference-d66e48">
+      <topic href="prodigal_enabling_reference.html" data-id="enabling_reference" wh-toc-id="enabling_reference-d66e59">
          <title>Enabling </title>
          <shortdesc>
             <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">People with addictions effect the whole family by using one of four         methods.</p>
@@ -50,7 +62,7 @@
             <shortdesc class="- map/shortdesc ">People with addictions effect the whole family by using one of four         methods.</shortdesc>
          </topicmeta>
       </topic>
-      <topic href="prodigal_intervention_task.html" data-id="intervention_task" wh-toc-id="intervention_task-d66e59">
+      <topic href="prodigal_intervention_task.html" data-id="intervention_task" wh-toc-id="intervention_task-d66e70">
          <title>Intervention of an addicted person</title>
          <shortdesc>
             <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Get help for your loved when you suspect an addiction. Educate yourself and find         support before attempting an intervention.
@@ -66,7 +78,7 @@
             </shortdesc>
          </topicmeta>
       </topic>
-      <topic href="prodigal_resource_reference.html" data-id="resource_reference" wh-toc-id="resource_reference-d66e70">
+      <topic href="prodigal_resource_reference.html" data-id="resource_reference" wh-toc-id="resource_reference-d66e81">
          <title>Resources</title>
          <shortdesc>
             <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Christian organizations that deal with addictions in Minnesota</p>

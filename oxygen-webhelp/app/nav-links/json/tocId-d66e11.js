@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"How to communicate","shortdesc":"\n            <p class=\"shortdesc\">Communicating with an addict involves more than speaking.</p>\n         ","href":"prodigal_communicate_task.html","attributes": {"data-id":"prodigal_communicate_task",},"menu": {"hasChildren":false,},"tocID":"prodigal_communicate_task-d66e12","topics":[]}]});
