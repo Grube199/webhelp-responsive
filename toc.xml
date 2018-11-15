@@ -32,13 +32,13 @@
          <topic href="prodigal_prayer_reference.html" data-id="prayer_reference" wh-toc-id="prayer_reference-d66e40">
             <title>Prayer ideas</title>
             <shortdesc>
-               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Prayer starters for prodigals.</p>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Sample subjects with verses to pray for prodigals.</p>
             </shortdesc>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="prayer_reference"></resourceid>
                <navtitle class="- topic/navtitle ">Prayer ideas</navtitle><?ditaot gentext?>
                <linktext class="- map/linktext ">Prayer ideas</linktext><?ditaot genshortdesc?>
-               <shortdesc class="- map/shortdesc ">Prayer starters for prodigals.</shortdesc>
+               <shortdesc class="- map/shortdesc ">Sample subjects with verses to pray for prodigals.</shortdesc>
             </topicmeta>
          </topic>
       </topic>
@@ -81,13 +81,13 @@
       <topic href="prodigal_resource_reference.html" data-id="resource_reference" wh-toc-id="resource_reference-d66e81">
          <title>Resources</title>
          <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Christian organizations that deal with addictions in Minnesota</p>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Christian organizations that deal with addictions in Minnesota.</p>
          </shortdesc>
          <topicmeta>
             <resourceid class="- topic/resourceid " oxy-source="topic" appid="resource_reference"></resourceid>
             <navtitle class="- topic/navtitle ">Resources</navtitle><?ditaot gentext?>
             <linktext class="- map/linktext ">Resources</linktext><?ditaot genshortdesc?>
-            <shortdesc class="- map/shortdesc ">Christian organizations that deal with addictions in Minnesota</shortdesc>
+            <shortdesc class="- map/shortdesc ">Christian organizations that deal with addictions in Minnesota.</shortdesc>
          </topicmeta>
       </topic>
    </topic>
